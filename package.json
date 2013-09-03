@@ -1,0 +1,20 @@
+{
+  "name": "dummy-api",
+  "version": "0.0.1",
+  "description": "Util for making a fake little RESTful resource in express.js.",
+  "author": "Henrik Joreteg henrik@andyet.net",
+  "main": "dummy-api.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HenrikJoreteg/dummy-api.git"
+  },
+  "keywords": [
+    "REST",
+    "api",
+    "development"
+  ],
+  "dependencies": {
+    "underscore": "1.5.1"
+  },
+  "license": "MIT"
+}
